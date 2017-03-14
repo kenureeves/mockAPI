@@ -1,0 +1,17 @@
+{
+  "name": "google_rcs_api",
+  "version": "1.0.0",
+  "description": "An application that will check the eligibility of the MSISDN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenu Cardino",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^1.25.1",
+    "express": "^4.15.2",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0"
+  }
+}
